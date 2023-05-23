@@ -83,7 +83,7 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
         <span className="text-3xl text-gradient font-[800]">快雪空空熊ChatGPT</span>
         <a
-          href="https://github.com/1912147250/kuaixue"
+          href="https://github.com/1912147250/mj-chatgpt"
           target="_blank"
           rel="noreferrer"
         >
